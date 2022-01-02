@@ -1,5 +1,4 @@
 <div style="display:flex">
-    <img src="./me.jpg" style="width:200px; padding:10px; border-radius:50px;">
     <div>
     <h1 style="border-bottom:none;">✨Brennen Green (he/him)✨</h1>
     <h2>Graphics Programmer, Math/CS Student</h2>
