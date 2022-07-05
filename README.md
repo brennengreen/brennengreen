@@ -11,7 +11,7 @@
     </ul>
     Experience:
     <ul>
-        <li>Incoming Graphics Programmer @ Blizzard Entertainment</li>
+        <li>Graphics Programmer @ Blizzard Entertainment</li>
         <li>Android Graphics Engineering @ Twitch</li>
         <li>Software Engineering @ Intel Corporation</li>
     </ul>
