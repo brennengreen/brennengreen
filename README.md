@@ -11,6 +11,7 @@
     </ul>
     Experience:
     <ul>
+        <li> Technical  Director @ DreamWorks Animation</li>
         <li>Graphics Programmer @ Blizzard Entertainment</li>
         <li>Android Graphics Engineering @ Twitch</li>
         <li>Software Engineering @ Intel Corporation</li>
