@@ -1,7 +1,7 @@
 <div style="display:flex">
     <div>
     <h1 style="border-bottom:none;">✨Brennen Green (he/him)✨</h1>
-    <h2>Associate Technical Director, DreamWorks Animation</h2>
+    <h2>Software Engineer, DreamWorks Animation</h2>
     Interests:
     <ul>
         <li>🎥 Film / Film VFX 🎥</li>
@@ -11,7 +11,7 @@
     </ul>
     Experience:
     <ul>
-        <li> Technical  Director @ DreamWorks Animation ( Current! ) </li> 
+        <li>Software Engineer @ DreamWorks Animation ( Current! ) </li> 
         <li>Graphics Programmer Intern @ Blizzard Entertainment</li>
         <li>Android Graphics Engineering Intern @ Twitch</li>
         <li>Software Engineering Intern @ Intel Corporation</li>
