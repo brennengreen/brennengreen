@@ -24,6 +24,3 @@
 </div>
 
 * Disclaimer: I use this GitHub for personal reasons, anything I say, do, or support is strictly on my behalf, and not on behalf of my company.
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brennengreen)](https://github.com/anuraghazra/github-readme-stats)
-
