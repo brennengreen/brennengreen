@@ -1,17 +1,11 @@
 <div style="display:flex">
     <div>
     <h1 style="border-bottom:none;">✨Brennen Green (he/him)✨</h1>
-    <h2>Software Engineer, DreamWorks Animation</h2>
-    Interests:
-    <ul>
-        <li>🎥 Film / Film VFX 🎥</li>
-        <li>🎮 Games / Game Engines 🎮</li>
-        <li>💡 Physically Based Rendering and Animation 💡</li>
-        <li>🎨 Technical Art 🎨</li>
-    </ul>
+    <h2>Developer Partner Manager @ Xbox</h2>
     Experience:
     <ul>
-        <li>Software Engineer @ DreamWorks Animation ( Current! ) </li> 
+        <li>Developer Partner Manager @ Xbox ( Current! ) </li>
+        <li>Software Engineer @ DreamWorks Animation </li> 
         <li>Graphics Programmer Intern @ Blizzard Entertainment</li>
         <li>Android Graphics Engineering Intern @ Twitch</li>
         <li>Software Engineering Intern @ Intel Corporation</li>
@@ -19,7 +13,6 @@
     </div>
 </div>
 <div style = "display:flex;padding:10px;">
-    <a style="padding-right:10px;" href="https://twitter.com/TheBrennenGreen">Twitter</a>
     <a style="padding-right:10px;"href="https://www.brennengreen.dev/">Website</a>
 </div>
 
