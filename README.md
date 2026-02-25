@@ -15,5 +15,3 @@
 <div style = "display:flex;padding:10px;">
     <a style="padding-right:10px;"href="https://www.brennengreen.dev/">Website</a>
 </div>
-
-* Disclaimer: I use this GitHub for personal reasons, anything I say, do, or support is strictly on my behalf, and not on behalf of my company.
