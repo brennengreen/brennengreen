@@ -4,10 +4,10 @@
     <h2>Developer Partner Manager @ XBOX </h2>
     Prev. Experience:
     <ul>
-        <li>Software Engineer @ DreamWorks Animation </li> 
-        <li>Graphics Programmer Intern @ Blizzard Entertainment</li>
-        <li>Android Graphics Engineering Intern @ Twitch</li>
-        <li>Software Engineering Intern @ Intel Corporation</li>
+        <li>Graphics Engineer @ DreamWorks Animation </li> 
+        <li>Graphics Engineer Intern @ Blizzard Entertainment</li>
+        <li>Android Graphics Engineer Intern @ Twitch</li>
+        <li>Software Engineer Intern @ Intel Corporation</li>
     </ul>
     </div>
 </div>
