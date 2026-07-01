@@ -1,7 +1,7 @@
 <div style="display:flex">
     <div>
     <h1 style="border-bottom:none;">✨Brennen Green (he/him)✨</h1>
-    <h2>Developer Partner Manager @ XBOX </h2>
+    <h2>Developer Relations @ XBOX </h2>
     Prev. Experience:
     <ul>
         <li>Graphics Engineer @ DreamWorks Animation </li> 
